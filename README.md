@@ -5,7 +5,7 @@
 ---
 
 ### 🧠 About Me
-- 🎯 bug bounty hunter & red teamer in progress  
+- 🎯 bug bounty hunter  
 - 🔥 Focused on Web Hacking & Low-Level Exploitation  
 - 🎥 I document my journey via YouTube, GitHub & writeups
 
